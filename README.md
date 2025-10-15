@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dsoltman.
-- 👀 I’m interested in pickleball.
-- 🌱 I’m currently learning pickleball.
+- 👋 Hi, I’m @dsoltman
+- 👀 I’m interested in pickleball
+- 🌱 I’m currently learning pickleball
 
 <!---
 dsoltman/dsoltman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
